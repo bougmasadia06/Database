@@ -5,14 +5,12 @@ Course: The Relational Model & Databases | Instructor: Kweyakie Afi Blebo
 ---
 
 ## Group Members
-| Name | Role |
-|------|------|
-| BOUGMA Sadiata | Group Leader |
-| KABORE Awa | SQL Developer |
-| ZONGO Pascal | SQL Developer |
-| WANGRE Delwendé Esther | Presentation |
-| KAFANDO Dan Ernest Patrice | Video / Testing |
-| SAWADOGO Sandrine | Documentation |
+- BOUGMA Sadiata
+- KABORE Awa
+- ZONGO Pascal
+- WANGRE Delwendé Esther
+- KAFANDO Dan Ernest Patrice
+- SAWADOGO Sandrine
 
 ---
 
